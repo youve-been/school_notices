@@ -7,7 +7,7 @@ def post_message(token, channel, text):
     )
     print(response)
 
-myToken = "xoxb-3249471790705-3234025928821-grduLvQfqcluijTzllxJi4AH"
+myToken = "[봇토큰입력]"
  
 from bs4 import BeautifulSoup as bs
 
