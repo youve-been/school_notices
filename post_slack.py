@@ -11,7 +11,7 @@ def post_message(token, channel, text):
 
 #channel and token info
 posting_channel = '#컴공_주요공지'
-myToken = "[token]"
+myToken = "[bot_token]"
  
 
 rfp = open('titles_db.txt', 'r')
@@ -32,9 +32,16 @@ while True :
 elements = soup.select('div.list_box ul > li > div > a')
 posting = []
 for i in elements :
-    posting.append('*'+i.get_text()+'*/n'+'https://cs.sogang.ac.kr'+i.get('href'))
+    posting.append('*'+i.get_text()+'*\n>'+'https://cs.sogang.ac.kr'+i.get('href'))
     
-last_post = list(map(lambda s : s.rstrip(), rfp.readlines()))
+db = rfp.readlines()
+last_post = []
+for idx in range(len(db)) :
+    if idx % 2 == 0 :
+        tmp = db[idx]+db[idx+1]
+        last_post.append(tmp.rstrip())
+    else :
+        continue
     
 if last_post != posting :
     for t in posting :

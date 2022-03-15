@@ -19,7 +19,7 @@ while True :
 elements = soup.select('div.list_box ul > li > div > a')
 posting = []
 for i in elements :
-    posting.append('*'+i.get_text()+'*/n'+'https://cs.sogang.ac.kr'+i.get('href'))
+    posting.append('*'+i.get_text()+'*\n>'+'https://cs.sogang.ac.kr'+i.get('href'))
 
 fp.write('\n'.join(posting))
     
