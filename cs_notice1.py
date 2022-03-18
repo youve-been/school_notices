@@ -1,4 +1,3 @@
-from ntpath import join
 import requests
 
 #function that sends Slack messages
@@ -14,7 +13,7 @@ posting_channel = '#컴공_주요공지'
 myToken = "[bot_token]"
  
 
-rfp = open('titles_db.txt', 'r')
+rfp = open('db_cs_notice1.txt', 'r')
 
 
 #reference : parser.py 
@@ -50,6 +49,6 @@ if last_post != posting :
 
 rfp.close()
 
-wfp = open('titles_db.txt', 'w')
+wfp = open('db_cs_notice1.txt', 'w', encoding='UTF-8')
 wfp.write('\n'.join(posting))
 wfp.close()

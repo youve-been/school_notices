@@ -1,58 +1,60 @@
-*»ï¼ºµð½ºÇÃ·¹ÀÌ ¿Â¶óÀÎ ¸®Å©·çÆÃ -¡¸ SDC Universe ¡¹(3/16~17)*
->https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=878311
-*[°øÁö] »ï¼º¹ÝµµÃ¼Æ®·¢ ÇÁ·Î±×·¥ °ü·Ã 2022³â »ó¹Ý±â ÀåÇÐ»ý ½ÅÃ»°øÁö*
+*ì‚¼ì„±ë””ìŠ¤í”Œë ˆì´ ì˜¨ë¼ì¸ ë¦¬í¬ë£¨íŒ…-ã€Œ SDC Universe ã€ 3.19(í† ) 11:00~*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=878666
+*2022í•™ë…„ë„ í›„ê¸° ëŒ€í•™ì› ì„¤ëª…íšŒ ì•ˆë‚´(4/11, 17:00~)*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=878642
+*[ê³µì§€] ì‚¼ì„±ë°˜ë„ì²´íŠ¸ëž™ í”„ë¡œê·¸ëž¨ ê´€ë ¨ 2022ë…„ ìƒë°˜ê¸° ìž¥í•™ìƒ ì‹ ì²­ê³µì§€*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=878306
-*ÄÚ·Î³ª19 °ü·Ã À¯°í°á¼® Ã³¸® ¾È³» (2022.3.7)*
+*ì½”ë¡œë‚˜19 ê´€ë ¨ ìœ ê³ ê²°ì„ ì²˜ë¦¬ ì•ˆë‚´ (2022.3.7)*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=878275
-*Ä¸½ºÅæµðÀÚÀÎI (CSE418-01, 02) ¼ö°­Çã°¡ ÀÌ¸ÞÀÏ ¾È³»*
+*ìº¡ìŠ¤í†¤ë””ìžì¸I (CSE418-01, 02) ìˆ˜ê°•í—ˆê°€ ì´ë©”ì¼ ì•ˆë‚´*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=878090
-*2022ÇÐ³âµµ 1ÇÐ±â ÀÎ°øÁö´ÉÇÐ°ú ¼¼¹Ì³ª ¾È³»*
+*2022í•™ë…„ë„ 1í•™ê¸° ì¸ê³µì§€ëŠ¥í•™ê³¼ ì„¸ë¯¸ë‚˜ ì•ˆë‚´*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=878009
-*2022ÇÐ³âµµ ¾Ë¹ÙÆ®·Î½º¼¼¹Ì³ª °øÅë±³À° ZOOM ¿þºñ³ª ÁÖ¼Ò ¹× ÀÏÁ¤ ¾È³»*
+*2022í•™ë…„ë„ ì•Œë°”íŠ¸ë¡œìŠ¤ì„¸ë¯¸ë‚˜ ê³µí†µêµìœ¡ ZOOM ì›¨ë¹„ë‚˜ ì£¼ì†Œ ë° ì¼ì • ì•ˆë‚´*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=877807
-*ÄÄÇ»ÅÍ°øÇÐ¼³°è¹×½ÇÇè¥° ºñ´ë¸é ¼ö°­ Çã°¡ ÀýÂ÷ ¾È³»(2/28, ~11:00)*
+*ì»´í“¨í„°ê³µí•™ì„¤ê³„ë°ì‹¤í—˜â…  ë¹„ëŒ€ë©´ ìˆ˜ê°• í—ˆê°€ ì ˆì°¨ ì•ˆë‚´(2/28, ~11:00)*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=877792
-*ÄÄÇ»ÅÍ°øÇÐ¼³°è¹×½ÇÇè¥° ÀüÃ¼°­ÀÇ ¹× 1ÁÖÂ÷ ¼ö¾÷ ¾È³»*
+*ì»´í“¨í„°ê³µí•™ì„¤ê³„ë°ì‹¤í—˜â…  ì „ì²´ê°•ì˜ ë° 1ì£¼ì°¨ ìˆ˜ì—… ì•ˆë‚´*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=877791
-*2022ÇÐ³âµµ 1ÇÐ±â ºñ´ë¸é ¼ö°­Çã°¡ ¾È³»*
+*2022í•™ë…„ë„ 1í•™ê¸° ë¹„ëŒ€ë©´ ìˆ˜ê°•í—ˆê°€ ì•ˆë‚´*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=877266
-*22ÇÐ³âµµ 1ÇÐ±â ÄÄÇ»ÅÍ°øÇÐ½ÇÇè¥± 1¹Ý(CSE3016-01) Æó°­ ¾È³»*
+*22í•™ë…„ë„ 1í•™ê¸° ì»´í“¨í„°ê³µí•™ì‹¤í—˜â…¡ 1ë°˜(CSE3016-01) íê°• ì•ˆë‚´*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=877244
-*ÄÄÇ»ÅÍ°øÇÐ°ú ±³À°°úÁ¤ °³Æí ¾È³»(´ÙÀü°ø ÀÌ¼ö¿ä°Ç º¯°æ, ÀÌ»ê±¸Á¶ ´ëÃ¼ÀÎÁ¤, ±³°ú¸ñ¸í º¯°æ)*
+*ì»´í“¨í„°ê³µí•™ê³¼ êµìœ¡ê³¼ì • ê°œíŽ¸ ì•ˆë‚´(ë‹¤ì „ê³µ ì´ìˆ˜ìš”ê±´ ë³€ê²½, ì´ì‚°êµ¬ì¡° ëŒ€ì²´ì¸ì •, êµê³¼ëª©ëª… ë³€ê²½)*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=877103
-*°øÇÐÀÎÁõ(abeek)È¨ÆäÀÌÁö Æó¼â °ü·Ã ¾È³»*
+*ê³µí•™ì¸ì¦(abeek)í™ˆíŽ˜ì´ì§€ íì‡„ ê´€ë ¨ ì•ˆë‚´*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=875480
-*ÄÚ·Î³ª-19 °ü·Ã Çàµ¿¼öÄ¢ °ü·Ã ¾È³»*
+*ì½”ë¡œë‚˜-19 ê´€ë ¨ í–‰ë™ìˆ˜ì¹™ ê´€ë ¨ ì•ˆë‚´*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=875330
-**ÇÊµ¶* ¼±¼ö°ú¸ñ Á¶Á¤ ¾È³»(½Ã½ºÅÛÇÁ·Î±×·¡¹Ö, °í±Þ¼ÒÇÁÆ®¿þ¾î½Ç½ÀI)*
+**í•„ë…* ì„ ìˆ˜ê³¼ëª© ì¡°ì • ì•ˆë‚´(ì‹œìŠ¤í…œí”„ë¡œê·¸ëž˜ë°, ê³ ê¸‰ì†Œí”„íŠ¸ì›¨ì–´ì‹¤ìŠµI)*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=872137
-**Áß¿ä* °øÇÐÀÎÁõ Á¾·á¿¡ µû¸¥ ÀÎÁõ ¡æ ºñÀÎÁõ Àü°ø ÀÏ°ý º¯°æ ¾È³»*
+**ì¤‘ìš”* ê³µí•™ì¸ì¦ ì¢…ë£Œì— ë”°ë¥¸ ì¸ì¦ â†’ ë¹„ì¸ì¦ ì „ê³µ ì¼ê´„ ë³€ê²½ ì•ˆë‚´*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=868201
-*¸¶½ºÅ© ÀÇ¹«È­ °ü·Ã ÁÖ¿ä ³»¿ë (2020.11.13 ±âÁØ)*
+*ë§ˆìŠ¤í¬ ì˜ë¬´í™” ê´€ë ¨ ì£¼ìš” ë‚´ìš© (2020.11.13 ê¸°ì¤€)*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=864629
-*ÄÚ·Î³ª¹ÙÀÌ·¯½º°¨¿°Áõ-19 ½É°¢´Ü°è ±¹¹ÎÇàµ¿¼öÄ¢ ¿¹¹æ ¾È³»*
+*ì½”ë¡œë‚˜ë°”ì´ëŸ¬ìŠ¤ê°ì—¼ì¦-19 ì‹¬ê°ë‹¨ê³„ êµ­ë¯¼í–‰ë™ìˆ˜ì¹™ ì˜ˆë°© ì•ˆë‚´*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=843223
-*½ÅÁ¾ ÄÚ·Î³ª¹ÙÀÌ·¯½º °¨¿°Áõ ¿¹¹æ¼öÄ¢*
+*ì‹ ì¢… ì½”ë¡œë‚˜ë°”ì´ëŸ¬ìŠ¤ ê°ì—¼ì¦ ì˜ˆë°©ìˆ˜ì¹™*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=842235
-***Áß¿ä** °øÇÐÀÎÁõ Á¾·á ¿¹Á¤¿¡ °üÇÑ °øÁö*
+***ì¤‘ìš”** ê³µí•™ì¸ì¦ ì¢…ë£Œ ì˜ˆì •ì— ê´€í•œ ê³µì§€*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=816984
-*2022ÇÐ³âµµ 1ÇÐ±â »ê¾÷Ã¼ Á¦¾È Ä¸½ºÅæµðÀÚÀÎI/II ÇÁ·ÎÁ§Æ® °ø°í*
+*ì‚¼ì„±ë””ìŠ¤í”Œë ˆì´ ì˜¨ë¼ì¸ ë¦¬í¬ë£¨íŒ… -ã€Œ SDC Universe ã€(3/16~17)*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=878311
+*2022í•™ë…„ë„ 1í•™ê¸° ì‚°ì—…ì²´ ì œì•ˆ ìº¡ìŠ¤í†¤ë””ìžì¸I/II í”„ë¡œì íŠ¸ ê³µê³ *
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=878137
-*2022³â »ó¹Ý±â »ï¼º¹ÝµµÃ¼Æ®·¢ ¿Â¶óÀÎ¼³¸íÈ¸ ¾È³»(3/7, 16:30~)*
+*2022ë…„ ìƒë°˜ê¸° ì‚¼ì„±ë°˜ë„ì²´íŠ¸ëž™ ì˜¨ë¼ì¸ì„¤ëª…íšŒ ì•ˆë‚´(3/7, 16:30~)*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=878007
-*°ø°ú´ëÇÐ 2022 ½ÅÀÔ»ý ¿À¸®¿£Å×ÀÌ¼Ç Çà»ç ÁÜ ¸µÅ©*
+*ê³µê³¼ëŒ€í•™ 2022 ì‹ ìž…ìƒ ì˜¤ë¦¬ì—”í…Œì´ì…˜ í–‰ì‚¬ ì¤Œ ë§í¬*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=877704
-*Çö´ë¸ðºñ½º-¼­°­´ëÇÐ±³¼ÒÇÁÆ®¿þ¾î¼®»ç°úÁ¤¸ðÁý (02.21(¿ù) ~ 03.07(¿ù) 10:00±îÁö)*
+*í˜„ëŒ€ëª¨ë¹„ìŠ¤-ì„œê°•ëŒ€í•™êµì†Œí”„íŠ¸ì›¨ì–´ì„ì‚¬ê³¼ì •ëª¨ì§‘ (02.21(ì›”) ~ 03.07(ì›”) 10:00ê¹Œì§€)*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=877696
-*2022-1ÇÐ±â ÄÄÇ»ÅÍ°øÇÐ°ú ÇÐºÎÁ¶±³ ¹× ¿Ü±¹ÀÎÁ¶±³ ¸ðÁý ¾È³»(~2/22 Ãß°¡ ¸ðÁý)*
+*2022-1í•™ê¸° ì»´í“¨í„°ê³µí•™ê³¼ í•™ë¶€ì¡°êµ ë° ì™¸êµ­ì¸ì¡°êµ ëª¨ì§‘ ì•ˆë‚´(~2/22 ì¶”ê°€ ëª¨ì§‘)*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=877265
-*2022-1ÇÐ±â ÇÐ°ú»ç¹«½Ç ±Ù·ÎÇÐ»ý ¸ðÁý(~2/13)*
+*2022-1í•™ê¸° í•™ê³¼ì‚¬ë¬´ì‹¤ ê·¼ë¡œí•™ìƒ ëª¨ì§‘(~2/13)*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=877167
-*2022ÇÐ³âµµ ¿¹ºñ´ëÇÐ»ý Python ±³À°À» À§ÇÑ ¸àÅä ¸ðÁý(~1/12)*
+*2022í•™ë…„ë„ ì˜ˆë¹„ëŒ€í•™ìƒ Python êµìœ¡ì„ ìœ„í•œ ë©˜í†  ëª¨ì§‘(~1/12)*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=876438
-*2021ÇÐ³âµµ µ¿°è ÇÐºÎ¡¤´ëÇÐ¿ø ¿¬°è°úÁ¤ ÇÐ»ý ¼±¹ß ÁÖ¿ä ÀÏÁ¤ ¾È³»*
+*2021í•™ë…„ë„ ë™ê³„ í•™ë¶€Â·ëŒ€í•™ì› ì—°ê³„ê³¼ì • í•™ìƒ ì„ ë°œ ì£¼ìš” ì¼ì • ì•ˆë‚´*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=876250
-*[Çö´ë¿£Áöºñ] ¼­°­SW »çÀü±³À° Á¢¼ö ½ÃÀÛ*
+*[í˜„ëŒ€ì—”ì§€ë¹„] ì„œê°•SW ì‚¬ì „êµìœ¡ ì ‘ìˆ˜ ì‹œìž‘*
 >https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=875886
-*2021 µ¿°è ÇÐ°ú»ç¹«½Ç ±Ù·ÎÇÐ»ý ¸ðÁý(~12/19)*
->https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1905&siteId=cs&pkid=875816

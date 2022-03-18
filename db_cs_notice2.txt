@@ -1,0 +1,20 @@
+*빅데이터 처리 및 데이터베이스 연구실(지도교수: 정성원 교수님) 학부 연구 인턴 모집*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1745&siteId=cs&pkid=878481
+*[SW교육센터] 기초인공지능프로그래밍 실습 멘토 모집(~2/23)*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1745&siteId=cs&pkid=877274
+*[SW교육센터] 고급응용C프로그래밍 과목(STS2008) 멘토 모집 (~2/23)*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1745&siteId=cs&pkid=877273
+*[SW교육센터] 기초빅데이터프로그래밍 과목(STS2011) 멘토 모집 (~2/23)*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1745&siteId=cs&pkid=877272
+*CAD&VLSI 연구실(지도교수: 김주호 교수님) 학부 연구생 모집*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1745&siteId=cs&pkid=876695
+*빅데이터 처리 및 데이터베이스 연구실(지도교수: 정성원 교수님) 학부 연구 인턴 모집*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1745&siteId=cs&pkid=876385
+*분산 컴퓨팅 및 운영체제 연구실(지도교수: 김영재 교수님, 박성용 교수님) 학부 연구 인턴 모집*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1745&siteId=cs&pkid=876032
+*분산 컴퓨팅 및 운영체제 연구실(지도교수: 김영재 교수님) 학부 연구 인턴 모집*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1745&siteId=cs&pkid=876028
+*DISCOS 연구실(분산 컴퓨팅 및 운영체제, 지도교수: 박성용 교수님) 학부 연구 인턴 모집*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1745&siteId=cs&pkid=872568
+*SCSC 및 융합소프트웨어연계전공 기초Java언어(1) 학부생 조교 모집*
+>https://cs.sogang.ac.kr/front/cmsboardview.do?currentPage=1&searchField=ALL&searchValue=&searchLowItem=ALL&bbsConfigFK=1745&siteId=cs&pkid=872072
