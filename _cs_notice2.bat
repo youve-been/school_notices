@@ -1,1 +1,0 @@
-python cs_notice2.py
